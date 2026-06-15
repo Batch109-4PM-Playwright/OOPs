@@ -2,7 +2,7 @@
 class hobbies
 {
 
-   k : string = "Hunting";  //instance variable
+   k : string = "Hunting";  //instance or non-static variable
    static runningspeed : number = 120;  //static variable
 
    coloroftheanimal() : void   //it is a method
