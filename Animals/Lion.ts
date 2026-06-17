@@ -18,3 +18,6 @@ let T = new hobbies();   //let --> variable declaration, T --> object ref, new -
 console.log(T.k);   //accessing instance variable using object reference
 T.coloroftheanimal(); //calling method using object reference
 
+
+
+
